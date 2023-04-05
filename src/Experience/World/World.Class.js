@@ -12,7 +12,9 @@ export default class World {
         const Test = new THREE.Mesh(
             new THREE.BoxGeometry(1,1,1), 
             new THREE.MeshStandardMaterial({
-                color: 'aliceblue'
+                color: 'aliceblue',
+                roughness:1,
+                metalness:1
             }))
             
             this.scene.add(Test)

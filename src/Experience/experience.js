@@ -65,12 +65,6 @@ export default class Experience {
 
         // })
 
-
-    }
-
-    //in the scene 
-    build(){
-
     }
 
     //On each Frame
