@@ -1,4 +1,6 @@
-# Three.js Journey
+# Setup Three
+
+##Base Enviroment for Three.js Native Projects
 
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
